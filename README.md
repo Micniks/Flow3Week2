@@ -11,11 +11,11 @@ README setup follow guide from https://docs.google.com/document/d/1nWjxWLepoW1-Y
 
 ## Monday
 -----
-Markup : 1. All done, except part 17 in everything you need to know, marked as red.
+1. All done, except part 17 in everything you need to know, marked as red.
 2. The exercise answers can be found under 01-monday-exercises:
-  1. Answers to assignment 'Getting Started' found in project 'getting-started'
-  2. Answers to assignment 'Nested Routes' found in project 'react-router'
-  3. Answers to assignment 'everything you need to know' found in project 'everything-react'
+    1. Answers to assignment 'Getting Started' found in project 'getting-started'
+    2. Answers to assignment 'Nested Routes' found in project 'react-router'
+    3. Answers to assignment 'everything you need to know' found in project 'everything-react'
 3. React Routers
 
 ## Tuesday
