@@ -15,7 +15,9 @@ README setup follow guide from https://docs.google.com/document/d/1nWjxWLepoW1-Y
 2. The exercise answers can be found under 01-monday-exercises:
 
 Answers to assignment 'Getting Started' found in project 'getting-started'
+
 Answers to assignment 'Nested Routes' found in project 'react-router'
+
 Answers to assignment 'everything you need to know' found in project 'everything-react'
 
 3. React Routers
