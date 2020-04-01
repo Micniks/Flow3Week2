@@ -9,7 +9,7 @@ import javax.ws.rs.container.PreMatching;
 import javax.ws.rs.ext.Provider;
 
 //Comment out the two annotations below to disable CORS-handling
-//@Provider
+@Provider
 @PreMatching
 public class CorsResponseFilter implements ContainerResponseFilter {
   private final static Logger LOG = Logger.getLogger(CorsResponseFilter.class.getName());

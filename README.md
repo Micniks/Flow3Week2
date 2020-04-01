@@ -26,9 +26,9 @@ README setup follow guide from https://docs.google.com/document/d/1nWjxWLepoW1-Y
 
 ## Wednesday
 -----
-1. 
-2. 
-3. 
+1. All Done from and including section 'Tokens and authentication with React', except yellow part 'L'
+2. 03-wednesday-exercises
+3. React, Security, Login Tokens
 
 ## Thursday
 -----
