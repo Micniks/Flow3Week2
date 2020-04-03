@@ -32,7 +32,7 @@ README setup follow guide from https://docs.google.com/document/d/1nWjxWLepoW1-Y
 
 ## Thursday
 -----
-1. All Done, not counting red text
+1. All Done, not counting red text, and sub-assignments for part 5.
 2. 04-thursday-exercises
 3. React, threads, fetch, scraps
 
